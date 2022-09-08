@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gym/static/css/main.073c9b0a.css",
+    "main.js": "/gym/static/js/main.8b16d618.js",
+    "static/js/787.375f2d88.chunk.js": "/gym/static/js/787.375f2d88.chunk.js",
+    "static/media/logo.svg": "/gym/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gym/index.html",
+    "main.073c9b0a.css.map": "/gym/static/css/main.073c9b0a.css.map",
+    "main.8b16d618.js.map": "/gym/static/js/main.8b16d618.js.map",
+    "787.375f2d88.chunk.js.map": "/gym/static/js/787.375f2d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b16d618.js"
+  ]
+}
